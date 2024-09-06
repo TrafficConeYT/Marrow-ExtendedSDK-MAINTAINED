@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67a7241ec7936fd409691acb0748dfb0, type: 3}
+  m_Name: 0.40 Cal
+  m_EditorClassIdentifier:
+  projectile: {fileID: 11400000, guid: f65d3c47a88f64249b434d33390e4a92, type: 2}
+  cartridgeSpawnable:
+    crateRef:
+      _barcode:
+        _id: c1534c5a-7dbf-4797-b9c5-1aa734304361
+    policyData: {fileID: 11400000, guid: e0d15ee002576414093295560f37d3e5, type: 2}
+  cartridgeCaseSpawnable:
+    crateRef:
+      _barcode:
+        _id: c1534c5a-40c6-4d2d-b18b-589a34304361
+    policyData: {fileID: 11400000, guid: e0d15ee002576414093295560f37d3e5, type: 2}

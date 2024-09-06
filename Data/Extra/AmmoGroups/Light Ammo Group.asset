@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001057338d542498d30c555063f47d5a, type: 3}
+  m_Name: Light Ammo Group
+  m_EditorClassIdentifier:
+  KeyName: light
+  cartridges:
+  - {fileID: 11400000, guid: 620a6412b5b10df4eb4f53b1f16c81a6, type: 2}
+  - {fileID: 11400000, guid: 0e215ac1b002ded4e9148398dc459e1d, type: 2}
+  - {fileID: 11400000, guid: 44b4599124641b949859c14a8622e5f2, type: 2}
+  - {fileID: 11400000, guid: 5ff829978a317884ebb0779cba6c02ed, type: 2}
+  - {fileID: 11400000, guid: fffc2b5a3c4c0d84f8e7c9b96d1c4098, type: 2}
+  - {fileID: 11400000, guid: 2b08c7f475d2cdb40a2b302b501466c2, type: 2}

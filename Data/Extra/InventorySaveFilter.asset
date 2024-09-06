@@ -1,0 +1,291 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31c45db3bb834fe903f957bb180cc48, type: 3}
+  m_Name: InventorySaveFilter
+  m_EditorClassIdentifier:
+  <Replacements>k__BackingField:
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.HandgunEder22training
+    <To>k__BackingField:
+      _barcode:
+        _id: c1534c5a-2a4f-481f-8542-cc9545646572
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-6b38-438a-a324-d7e147616467
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-5747-42a2-bd08-ab3b47616467
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-c6a8-45d0-aaa2-2c954465764d
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-3813-49d6-a98c-f595436f6e73
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-e777-4d15-b0c1-3195426f6172
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-97a9-43f7-be30-6095416d6d6f
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-683b-4c01-b378-6795416d6d6f
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-57d4-4468-b5f0-c795416d6d6f
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.DestAmmoBoxHeavyVariant
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.DestAmmoBoxLightVariant
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.DestAmmoBoxMediumVariant
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-d7ea-4c98-a79d-244e4d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-53ea-4354-950c-166c4d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-de30-4591-8dd2-53954d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-6125-45f0-ac59-a6954d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-53c6-4aa3-8c88-93504d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.CORE.Spawnable.MagazineeMag
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-55c5-4e30-8ad4-a7074d61675f
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-9e31-482a-b426-43764d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-eae9-4837-9bf2-2fd94d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-8bb2-47cc-977a-46954d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-233c-413a-b218-56954d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-dfeb-4562-9b6e-76d04d61675f
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-ce15-4235-b0d6-7efd4d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-9828-4ba4-8292-25734d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: fa534c5a868247138f50c62e424c4144.Spawnable.MagazineStaplegun
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-18ce-44aa-a416-63174d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-6e5b-4980-a3f2-95954d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-3030-4338-bf76-b67c4d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: fa534c5a83ee4ec6bd641fec424c4142.Spawnable.VehicleGokart
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.MinecartTurretGun
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-e45e-4f53-a9ae-3c954d616761
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-87ce-436d-b00c-ef9547726176
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-a1c3-437b-85ac-e09547726176
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: fa534c5a868247138f50c62e424c4144.Spawnable.OmniWay
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: c1534c5a-52b6-490b-8c20-1cfe50616c6c
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.TwoButtonRemote
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: fa534c5a83ee4ec6bd641fec424c4142.Spawnable.BatteryA
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.IronKey
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.PropTorch
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.PropIDCard
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.ClipboardLore
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.PropAuthentikeyA
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.PropAuthentikeyB
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
+  - <From>k__BackingField:
+      _barcode:
+        _id: SLZ.BONELAB.Content.Spawnable.PropAuthentikeyC
+    <To>k__BackingField:
+      _barcode:
+        _id: null.empty.barcode
